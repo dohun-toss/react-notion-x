@@ -3,7 +3,7 @@
   "version": "6.13.10",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
-  "repository": "NotionX/react-notion-x",
+  "repository": "dohun-toss/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
@@ -12,7 +12,7 @@
   "sideEffects": false,
   "files": [
     "build",
-    "src/styles.css"
+    "src"
   ],
   "engines": {
     "node": ">=12"
