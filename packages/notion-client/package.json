@@ -24,8 +24,8 @@
   },
   "dependencies": {
     "got": "^11.8.1",
-    "notion-types": "^6.13.11",
-    "notion-utils": "^6.13.11",
+    "notion-types": "^6.13.4",
+    "notion-utils": "^6.13.4",
     "p-map": "^5.3.0"
   },
   "ava": {
@@ -38,6 +38,5 @@
       "--no-warnings",
       "--experimental-specifier-resolution=node"
     ]
-  },
-  "gitHead": "e854c92a1beadb4947d47026325b18f2f1450d26"
+  }
 }
