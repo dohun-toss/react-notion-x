@@ -30,6 +30,7 @@ export const AssetWrapper: React.FC<{
 
   const figure = (
     <figure
+      id={blockId}
       className={cs(
         'notion-asset-wrapper',
         `notion-asset-wrapper-${block.type}`,
