@@ -1,5 +1,5 @@
 {
-  "name": "notion-types",
+  "name": "notion-types-dohun",
   "version": "6.13.11",
   "type": "module",
   "description": "TypeScript types for core Notion data structures.",
@@ -14,5 +14,6 @@
   ],
   "engines": {
     "node": ">=12"
-  }
+  },
+  "gitHead": "e854c92a1beadb4947d47026325b18f2f1450d26"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "react-notion-x",
+  "name": "react-notion-x-dohun",
   "version": "6.13.11",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
@@ -51,5 +51,6 @@
   "peerDependencies": {
     "react": ">=16",
     "react-dom": ">=16"
-  }
+  },
+  "gitHead": "e854c92a1beadb4947d47026325b18f2f1450d26"
 }

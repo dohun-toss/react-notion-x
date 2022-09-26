@@ -1,5 +1,5 @@
 {
-  "name": "notion-utils",
+  "name": "notion-utils-dohun",
   "version": "6.13.11",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
@@ -45,5 +45,6 @@
       "--no-warnings",
       "--experimental-specifier-resolution=node"
     ]
-  }
+  },
+  "gitHead": "e854c92a1beadb4947d47026325b18f2f1450d26"
 }

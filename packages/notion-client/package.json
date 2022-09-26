@@ -1,5 +1,5 @@
 {
-  "name": "notion-client",
+  "name": "notion-client-dohun",
   "version": "6.13.11",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
@@ -38,5 +38,6 @@
       "--no-warnings",
       "--experimental-specifier-resolution=node"
     ]
-  }
+  },
+  "gitHead": "e854c92a1beadb4947d47026325b18f2f1450d26"
 }
