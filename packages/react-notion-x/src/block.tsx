@@ -783,8 +783,8 @@ export const Block: React.FC<BlockProps> = (props) => {
     case 'table_row': {
       const tableBlock = recordMap.block[block.parent_id]
         ?.value as types.TableBlock
-      const order = tableBlock.format?.table_block_column_order
-      const formatMap = tableBlock.format?.table_block_column_format
+      const order = tableBlock?.format?.table_block_column_order
+      const formatMap = tableBlock?.format?.table_block_column_format
 
       if (!tableBlock || !order) {
         return null
@@ -829,6 +829,4 @@ export const Block: React.FC<BlockProps> = (props) => {
 
       return <div />
   }
-
-  return null
 }
