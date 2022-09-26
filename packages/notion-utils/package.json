@@ -1,6 +1,6 @@
 {
   "name": "notion-utils-dohun",
-  "version": "6.13.12",
+  "version": "6.13.13",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
   "repository": "dohun-toss/react-notion-x",
