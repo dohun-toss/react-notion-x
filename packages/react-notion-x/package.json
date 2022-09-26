@@ -1,6 +1,6 @@
 {
   "name": "react-notion-x-dohun",
-  "version": "6.13.14",
+  "version": "6.13.15",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
   "repository": "dohun-toss/react-notion-x",
