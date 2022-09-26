@@ -1,6 +1,6 @@
 {
   "name": "notion-client-dohun",
-  "version": "6.13.11",
+  "version": "6.13.12",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
   "repository": "dohun-toss/react-notion-x",
